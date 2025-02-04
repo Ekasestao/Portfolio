@@ -8,3 +8,6 @@ Este es mi portfolio personal.
 
 ## Ver ejemplo en vivo
 - [https://ekasestao.github.io/Portfolio/](https://ekasestao.github.io/Portfolio/)
+
+## Contacto
+ekaitzcampo2002@gmail.com
