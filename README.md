@@ -4,7 +4,7 @@ Este es mi portfolio personal.
 ## Autor ✒️
 **Ekaitz Campo**
 
-- [LinkedIn]https://www.linkedin.com/in/ekasestao
+- [LinkedIn](https://www.linkedin.com/in/ekasestao/)
 
 ## Ver ejemplo en vivo
 - [https://ekasestao.github.io/Portfolio/](https://ekasestao.github.io/Portfolio/)
